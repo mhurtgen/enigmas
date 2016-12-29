@@ -1,1 +1,1 @@
-https://newsapi.org/v1/articles?source=bild&sortBy=latest&apiKey=1eed8bf5067c4989822bdf396b2e7b3b
+https://newsapi.org/v1/articles?source=bild&sortBy=latest&apiKey=
